@@ -8,7 +8,7 @@ public class CompanySystem {
 
         m.displayInfo();
         m.assignTask("Prepare project plan");
-        m.approveLeave("Sirojiddin");
+        m.approveLeave("Abdulhamid");
 
         System.out.println();
 
