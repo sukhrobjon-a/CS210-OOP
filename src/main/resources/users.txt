@@ -1,0 +1,2 @@
+admin,admin123,ADMIN
+sukhrobjon,2909,RENTER

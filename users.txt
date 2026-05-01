@@ -1,0 +1,4 @@
+admin,admin,ADMIN
+s,s,RENTER
+r,r,RECEPTIONIST
+sukhrob,2909,RENTER
